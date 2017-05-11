@@ -1,3 +1,0 @@
-pip install Flask
-pip install requests
-pip install gunicorn
